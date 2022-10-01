@@ -1,0 +1,14 @@
+.para {
+    color:aqua;
+    margin-bottom: 50px;
+    border: 1px solid blueviolet;
+    padding: 20px;
+}
+
+.para-external  {
+    color:chartreuse;
+    background-color:darkgreen;
+    margin-bottom: 100px;
+    height: 200px;
+    width: 200px;
+}
